@@ -1,2 +1,2 @@
-# BlockChainai
-Blockchainu darbai
+## BlockChainai
+#Hash generatoriaus kūrimas
