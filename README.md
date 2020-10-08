@@ -1,2 +1,2 @@
 ## BlockChainai
-#Hash generatoriaus kūrimas
+# Hash generatoriaus kūrimas
