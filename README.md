@@ -1,5 +1,5 @@
 ## BlockChainai
-# Hash generatoriaus kūrimas
+# Hash generatoriaus kūrimas (v0.1)
 # Pseudokodas:
 Begin
   Input file name or input
