@@ -23,3 +23,5 @@ Hashas gautas toks: https://prnt.sc/uvowq5
 Vidury failo iterpta A raide
 Hashas gautas toks: https://prnt.sc/uvoxfd
 3. Su tusciu failu programa uzcrashina.
+# Kodo keitimai:
+10/15/2020 - Pakoreguotas header.cpp failas
