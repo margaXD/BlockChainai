@@ -31,6 +31,10 @@ Laikas - 0.05122s<br/>
 1. Programa neveikia su mazos apimties inputais
 2. SHA256 veikia ir greiciau, ir geriau hashuoja, negu sis kodas.
 3. Hash turi fixed ilgi, del to kodas nera labai taisyklingas
+# Isvados:
+1. Kodas nera labai taisyklingas ir nelabai gerai hashuoja
+2. Mazu inputu kodas nehashuoja
+3. SHA256 visais atvejais geresnis nei sis kodas
 
 # Kodo keitimai:
 10/15/2020 - Pakoreguotas header.cpp ir main.cpp failai
