@@ -43,5 +43,5 @@ Koliziju nerasta.
 3. SHA256 visais atvejais geresnis nei sis kodas
 
 # Kodo keitimai:
-10/15/2020 - Pakoreguotas header.cpp ir main.cpp failai.
+10/15/2020 - Pakoreguotas header.cpp ir main.cpp failai.<br/>
 10/22/2020 - Pakoreguotas header.cpp ir main.cpp failai. Prideta nauju txt failu.
