@@ -6,6 +6,11 @@
 #include <stdlib.h> 
 #include <sstream>
 #include <iomanip>
+#include <ctime>
+#include <chrono>
+#include <time.h>
+#include <cmath>
+using namespace std::chrono;
 class hashas {
 
 public:
