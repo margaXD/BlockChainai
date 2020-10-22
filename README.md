@@ -26,9 +26,15 @@ Laikas - 0.05248s<br/>
 Vidury failo iterpta A raide<br/>
 Hashas gautas toks: https://prnt.sc/uvoxfd<br/>
 Laikas - 0.05122s<br/>
-3. Su tusciu failu programa uzcrashina.<br/>
+3. Sukurtas tuscias failas<br/>
+Laikas - 0.000129700s<br/>
+4. Sukurtas 25k stringu po 10 simboliu poru failas<br/>
+Laikas - 19.307261s<br/>
+Koliziju nerasta.
+5. Sukurtas 25k stringu po 100 simboliu poru failas<br/>
+Laikas - 20.524706<br/>
+Koliziju nerasta.
 # Kodo efektyvumas lyginant su SHA256
-1. Programa neveikia su mazos apimties inputais
 2. SHA256 veikia ir greiciau, ir geriau hashuoja, negu sis kodas.
 3. Hash turi fixed ilgi, del to kodas nera labai taisyklingas
 # Isvados:
@@ -37,4 +43,5 @@ Laikas - 0.05122s<br/>
 3. SHA256 visais atvejais geresnis nei sis kodas
 
 # Kodo keitimai:
-10/15/2020 - Pakoreguotas header.cpp ir main.cpp failai
+10/15/2020 - Pakoreguotas header.cpp ir main.cpp failai.
+10/22/2020 - Pakoreguotas header.cpp ir main.cpp failai. Prideta nauju txt failu.
